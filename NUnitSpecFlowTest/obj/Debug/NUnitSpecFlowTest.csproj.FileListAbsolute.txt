@@ -1,0 +1,9 @@
+D:\VS Projects\NUnitSpecFlowTest\NUnitSpecFlowTest\obj\Debug\NUnitSpecFlowTest.csprojResolveAssemblyReference.cache
+D:\VS Projects\NUnitSpecFlowTest\NUnitSpecFlowTest\bin\Debug\NUnitSpecFlowTest.dll.config
+D:\VS Projects\NUnitSpecFlowTest\NUnitSpecFlowTest\bin\Debug\NUnitSpecFlowTest.dll
+D:\VS Projects\NUnitSpecFlowTest\NUnitSpecFlowTest\bin\Debug\NUnitSpecFlowTest.pdb
+D:\VS Projects\NUnitSpecFlowTest\NUnitSpecFlowTest\bin\Debug\nunit.framework.dll
+D:\VS Projects\NUnitSpecFlowTest\NUnitSpecFlowTest\bin\Debug\TechTalk.SpecFlow.dll
+D:\VS Projects\NUnitSpecFlowTest\NUnitSpecFlowTest\bin\Debug\nunit.framework.xml
+D:\VS Projects\NUnitSpecFlowTest\NUnitSpecFlowTest\obj\Debug\NUnitSpecFlowTest.dll
+D:\VS Projects\NUnitSpecFlowTest\NUnitSpecFlowTest\obj\Debug\NUnitSpecFlowTest.pdb
